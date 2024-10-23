@@ -14,3 +14,45 @@ entries:
     urls:
     - https://github.com/lwpk110/kubedoop-helm-charts/releases/download/commons-operator-0.0.1/commons-operator-0.0.1.tgz
     version: 0.0.1
+  trino-operator:
+  - apiVersion: v2
+    appVersion: 0.0.0-dev
+    created: "2024-10-23T16:38:29.972870587+08:00"
+    description: The Kubedoop operator for Trino
+    digest: 137d1e256b9cc1212d0e9dffc0f3cb398f272243acb1f171cae8c56495af33b9
+    maintainers:
+    - email: zncdatadev@googlegroups.com
+      name: ZNCDataDev Team
+    name: trino-operator
+    type: application
+    urls:
+    - https://github.com/lwpk110/kubedoop-helm-charts/releases/download/trino-operator-0.0.0-dev/trino-operator-0.0.0-dev.tgz
+    version: 0.0.0-dev
+  zookeeper-operator:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-10-23T16:38:31.019617185+08:00"
+    description: The Kubedoop operator for Apache Zookeeper
+    digest: f6db67401c1ff33616f2a5b7782aef3779c3e923366b83a7f3f38c038c2ce40a
+    maintainers:
+    - email: zncdatadev@googlegroups.com
+      name: ZNCDataDev Team
+    name: zookeeper-operator
+    type: application
+    urls:
+    - https://github.com/lwpk110/kubedoop-helm-charts/releases/download/zookeeper-operator-0.0.1/zookeeper-operator-0.0.1.tgz
+    version: 0.0.1
+  - apiVersion: v2
+    appVersion: 0.0.0-dev
+    created: "2024-10-23T16:38:30.480662264+08:00"
+    description: The Kubedoop operator for Apache Zookeeper
+    digest: f7e496d2c7ff1b8b1d08fa87ed2e972f6cedd3698ec553f7bed39863144f734c
+    maintainers:
+    - email: zncdatadev@googlegroups.com
+      name: ZNCDataDev Team
+    name: zookeeper-operator
+    type: application
+    urls:
+    - https://github.com/lwpk110/kubedoop-helm-charts/releases/download/zookeeper-operator-0.0.0-dev/zookeeper-operator-0.0.0-dev.tgz
+    version: 0.0.0-dev
+generated: "2024-10-23T16:38:31.019629237+08:00"
